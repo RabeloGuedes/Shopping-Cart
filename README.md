@@ -27,6 +27,13 @@ Projeto da [Trybe](https://www.betrybe.com/) - Bloco 9 - Aplicação que simula 
   <div/>
 </details>
 
+<details>
+  <summary><strong>🧪 Test Coverage</strong></summary><br />
+
+  <img src="project-infos/shopping-cart-test-coverage.png"/>
+</details>
+
+
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com:
 
@@ -105,6 +112,13 @@ Project from [Trybe](https://www.betrybe.com/) - Block 9 - Application, which si
   <div/>
 </details>
 
+<details>
+  <summary><strong>🧪 Test Coverage</strong></summary><br />
+
+  <img src="project-infos/shopping-cart-test-coverage.png"/>
+</details>
+
+
 ## 🚀 Technologies
 > This project was developed with:
 
@@ -182,6 +196,12 @@ Projekt von [Trybe](https://www.betrybe.com/) - Block 9 - Enkaufswagen Applikati
   <summary><strong>🖼️ Projekts Gif</strong></summary><br />
 
   <img src="project-infos/shopping-cart.gif"/>
+</details>
+
+<details>
+  <summary><strong>🧪 Test Coverage</strong></summary><br />
+
+  <img src="project-infos/shopping-cart-test-coverage.png"/>
 </details>
 
 ## 🚀 Technologies
