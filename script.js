@@ -36,7 +36,7 @@ const localStorageChecker = () => {
   if (localStorage.getItem('cartCost')) {
     const localStorageCost = localStorage.getItem('cartCost').split('$');
     return Number(localStorageCost);
-  } return 'R$ 0.00';
+  } return 0;
 };
 
 let cost = localStorageChecker();
