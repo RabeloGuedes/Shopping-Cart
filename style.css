@@ -310,6 +310,10 @@ body {
   padding: 5px 10px;
 }
 
+.remove-btn, .empty-cart {
+  cursor: pointer;
+}
+
 /* Body Settings */
 
 @media screen and (min-width: 1140px) {

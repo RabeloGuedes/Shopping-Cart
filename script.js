@@ -144,15 +144,15 @@ const itens = async () => {
 };
 
 const cartClear = () => {
- const cartItem = document.querySelectorAll('.cart__item');
- cartItem.forEach((li) => {
-  cartItems.removeChild(li);
- });
- localStorage.removeItem('cartList');
- cost = 0;
- totalPrice.innerText = cost;
- saveCost();
- totalPrice.innerText = `R$ ${cost.toFixed(2)}`;
+  const cartItem = document.querySelectorAll('.cart__item');
+  cartItem.forEach((li) => {
+    cartItems.removeChild(li);
+  });
+  localStorage.removeItem('cartList');
+  cost = 0;
+  totalPrice.innerText = cost;
+  saveCost();
+  totalPrice.innerText = `R$ ${cost.toFixed(2)}`;
 };
 
 emptyCartBtn.addEventListener('click', cartClear);
@@ -210,4 +210,4 @@ window.onload = async () => {
   await itens();
   getRidOf();
   getSavedCost();
- };
+};
